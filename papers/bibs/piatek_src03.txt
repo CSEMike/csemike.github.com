@@ -1,0 +1,5 @@
+@article{piatek_src03,
+	Author = {Michael Piatek},
+	Journal = {{ACM} Student Research Contest},
+	Title = {An Analysis of Flow Identification in {QoS} Systems},
+	Year = {2003}}

@@ -1,0 +1,5 @@
+@inproceedings{iplane_osdi,
+	Author = {Harsha V. Madhyastha and Tomas Isdal and Michael Piatek and Colin Dixon and Thomas Anderson and Arvind Krishnamurthy and Arun Venkataramani},
+	Booktitle = {OSDI},
+	Title = {{iPlane}: {A}n information plane for distributed services},
+	Year = {2006}}

@@ -1,0 +1,5 @@
+@article{piatek_src04,
+	Author = {Michael Piatek},
+	Journal = {{ACM} Student Research Contest},
+	Title = {Distributed web proxy caching in a local environment},
+	Year = {2004}}

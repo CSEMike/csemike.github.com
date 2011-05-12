@@ -1,0 +1,7 @@
+
+@techreport{bittyrant_tr,
+	Author = {Michael Piatek and Tomas Isdal and Thomas Anderson and Arvind Krishnamurthy and Arun Venkataramani},
+	Institution = {{U}niversity of {W}ashington},
+	Number = {UW-CSE-06-11-02},
+	Title = {Do incentives build robustness in {B}it{T}orrent?},
+	Year = {2006}}
