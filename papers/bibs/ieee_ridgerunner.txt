@@ -1,9 +1,0 @@
-@inproceedings{cprvis,
-   AUTHOR = {Jason Cantarella and Michael Piatek and Eric Rawdon},
-   TITLE = {Visualizing the tightening of knots},
-   booktitle = {VIS '05: Proceedings of the conference on Visualization '05},
-   pages = {575--582},
-   year = {2005},
-   publisher = {IEEE Computer Society},
-   address = {Washington, DC, USA}
-}

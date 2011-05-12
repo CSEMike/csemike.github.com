@@ -1,8 +1,0 @@
-@techreport{liveswarms,
-	Author = {Michael Piatek and Colin Dixon and Arvind Krishnamurthy and Thomas Anderson},
-	Date-Added = {2006-11-25 17:48:10 -0800},
-	Date-Modified = {2006-11-25 17:49:09 -0800},
-	Institution = {University of Washington},
-	Number = {UW-CSE-06-11-01},
-	Title = {{L}ive{S}warms: {A}dapting {B}it{T}orrent for end host multicast},
-	Year = {2006}}
