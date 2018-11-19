@@ -1,0 +1,11 @@
+<html><head>
+<meta http-equiv="Content-Security-Policy" content="script-src 'nonce-nonceval'">
+<script nonce="nonceval">
+
+const templateElement = document.createElement('template');
+templateElement.innerHTML = '<audio src=x onerror=alert(1)>';
+
+console.log('Executed whitelisted inline script');
+
+</script>
+</head></html>
